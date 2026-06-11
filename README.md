@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sania Roy</h1>
 <h3 align="center">A Passionate Data Science Student from India</h3>
+<img align="right" alt="coding" width="250" src="https://camo.githubusercontent.com/c301ef462a8624ce60dba1b12fe2ec52cf1b7babf89c5473cc3562c9b1d28684/68747470733a2f2f6d656469612e74656e6f722e636f6d2f773341504c6b4d75545830414141414d2f636f6d70757465722d776f726b2e676966">
 
 - 🔭 I’m currently working on **Pucho (Indian Legal Literacy Web App)**
 
